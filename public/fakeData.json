@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "image": "https://i.dummyjson.com/data/products/1/1.jpg",
+        "phone_name": "FictionalPhone X",
+        "brand_name": "FictionalTech",
+        "price": 499.99,
+        "ratings": 4.5
+    },
+    {
+        "id": 2,
+        "image": "https://i.dummyjson.com/data/products/2/1.jpg",
+        "phone_name": "SuperPhone Z",
+        "brand_name": "TechGadget",
+        "price": 599.99,
+        "ratings": 4.8
+    },
+    {
+        "id": 3,
+        "image": "https://i.dummyjson.com/data/products/4/1.jpg",
+        "phone_name": "SmartCell Y",
+        "brand_name": "ElectroTech",
+        "price": 449.99,
+        "ratings": 4.2
+    },
+    {
+        "id": 3,
+        "image": "https://i.dummyjson.com/data/products/6/1.png",
+        "phone_name": "SmartCell Y",
+        "brand_name": "ElectroTech",
+        "price": 449.99,
+        "ratings": 4.2
+    },
+    {
+        "id": 3,
+        "image": "https://i.dummyjson.com/data/products/7/1.jpg",
+        "phone_name": "SmartCell Y",
+        "brand_name": "ElectroTech",
+        "price": 449.99,
+        "ratings": 4.2
+    }
+]
