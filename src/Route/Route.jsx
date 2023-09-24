@@ -15,7 +15,7 @@ const myCreatedRoute = createBrowserRouter([
                 element:<Home></Home>
             },
             {
-                path:"/favourite",
+                path:"/favourites",
                 element:<Favourite></Favourite>
             },
             {
